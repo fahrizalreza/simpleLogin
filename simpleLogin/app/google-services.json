@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "731710111950",
+    "firebase_url": "https://simplelogin-76f9b.firebaseio.com",
+    "project_id": "simplelogin-76f9b",
+    "storage_bucket": "simplelogin-76f9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731710111950:android:48c9df0bd2172bc3",
+        "android_client_info": {
+          "package_name": "com.example.simplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731710111950-h8jm4ubrh4tcbp78bv646hb8tb1qjndn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simplelogin",
+            "certificate_hash": "3449b5837cd177ca333262dff9b0fafbc457a050"
+          }
+        },
+        {
+          "client_id": "731710111950-9rvf1hbsd645vh75mnnvhmq6t5gnjq4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsD5_Eg_w3T_LdVR0jY3qsRQ_aifoldRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731710111950-9rvf1hbsd645vh75mnnvhmq6t5gnjq4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

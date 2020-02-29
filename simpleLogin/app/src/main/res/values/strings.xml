@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">simpleLogin</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="textview">TextView</string>
+    <string name="welcome_finally_you_made_it_this_far">Welcome ! Finally you made it this far</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
